@@ -1,0 +1,1 @@
+window.COURSE_CONFIG = { attendanceUrl: "https://business-letter-unit1-records.ijungchen.chatgpt.site", siteUrl: "https://ij-teacher.github.io/business-letter-unit1/" };
