@@ -313,44 +313,34 @@ window.LESSON = {
   ],
   "gaps": [
     {
-      "q": "Before publishing the research results, the professor conducted a ______________ review of the data to make sure every detail was accurate.",
-      "answer": "thorough"
+      "q": "Before publishing the research results, the professor conducted a ______________ review of the data to make sure every detail was accurate."
     },
     {
-      "q": "Airport officials must ______________ each traveler’s passport before allowing them to enter the country.",
-      "answer": "stamp"
+      "q": "Airport officials must ______________ each traveler’s passport before allowing them to enter the country."
     },
     {
-      "q": "Several tech companies are ______________ on the development of an innovative AI system to improve cybersecurity.",
-      "answer": "collaborating"
+      "q": "Several tech companies are ______________ on the development of an innovative AI system to improve cybersecurity."
     },
     {
-      "q": "Our team worked hard to ______________ the deadline set by the project manager.",
-      "answer": "meet"
+      "q": "Our team worked hard to ______________ the deadline set by the project manager."
     },
     {
-      "q": "After checking the information in the system, the hotel receptionist called to ______________ the customer’s reservation.",
-      "answer": "confirm"
+      "q": "After checking the information in the system, the hotel receptionist called to ______________ the customer’s reservation."
     },
     {
-      "q": "After analyzing several years of climate data, scientists were able to ______________ the main cause of the temperature increase.",
-      "answer": "determine"
+      "q": "After analyzing several years of climate data, scientists were able to ______________ the main cause of the temperature increase."
     },
     {
-      "q": "Once your application has been approved, you may ______________ to the next stage of the selection process.",
-      "answer": "proceed"
+      "q": "Once your application has been approved, you may ______________ to the next stage of the selection process."
     },
     {
-      "q": "At the beginning of the semester, the university conducted a laboratory safety ______________ to ensure that all equipment was functioning properly.",
-      "answer": "inspection"
+      "q": "At the beginning of the semester, the university conducted a laboratory safety ______________ to ensure that all equipment was functioning properly."
     },
     {
-      "q": "The teacher asked the students to submit the ______________ version of their essays instead of a photocopy.",
-      "answer": "original"
+      "q": "The teacher asked the students to submit the ______________ version of their essays instead of a photocopy."
     },
     {
-      "q": "The new concert hall has the ______________ to hold more than 3,000 people.",
-      "answer": "capacity"
+      "q": "The new concert hall has the ______________ to hold more than 3,000 people."
     }
   ]
 };
