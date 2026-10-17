@@ -313,34 +313,34 @@ window.LESSON = {
   ],
   "gaps": [
     {
-      "q": "Before publishing the research results, the professor conducted a ______________ review of the data to make sure every detail was accurate."
+      "q": "Please do a ________ check. Do not miss any details."
     },
     {
-      "q": "Airport officials must ______________ each traveler’s passport before allowing them to enter the country."
+      "q": "Please ________ this form with today’s date."
     },
     {
-      "q": "Several tech companies are ______________ on the development of an innovative AI system to improve cybersecurity."
+      "q": "The students are ________ on a class project."
     },
     {
-      "q": "Our team worked hard to ______________ the deadline set by the project manager."
+      "q": "We must finish by Monday to ________ the deadline."
     },
     {
-      "q": "After checking the information in the system, the hotel receptionist called to ______________ the customer’s reservation."
+      "q": "Please call the hotel to ________ your booking."
     },
     {
-      "q": "After analyzing several years of climate data, scientists were able to ______________ the main cause of the temperature increase."
+      "q": "We need to ________ how many chairs to buy."
     },
     {
-      "q": "Once your application has been approved, you may ______________ to the next stage of the selection process."
+      "q": "You finished step one. Please ________ to step two."
     },
     {
-      "q": "At the beginning of the semester, the university conducted a laboratory safety ______________ to ensure that all equipment was functioning properly."
+      "q": "The car passed its safety ________. It is safe to drive."
     },
     {
-      "q": "The teacher asked the students to submit the ______________ version of their essays instead of a photocopy."
+      "q": "Please bring the ________ document, not a copy."
     },
     {
-      "q": "The new concert hall has the ______________ to hold more than 3,000 people."
+      "q": "This bus has a ________ of 40 people."
     }
   ]
 };
